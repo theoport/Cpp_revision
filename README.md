@@ -1,4 +1,4 @@
 # Cpp_revision
 
 Exercises for Imperial C++ exams.
-More at https://github.com/timothyylim/cpp-revision
+More at Tim Lim's repository: https://github.com/timothyylim/cpp-revision
